@@ -2,4 +2,6 @@
 
 ## v0.1.0
 - Initiating the project.
-- `rescale`
+
+## v0.1.1
+- New function `rescale`
